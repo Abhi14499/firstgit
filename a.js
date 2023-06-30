@@ -1,1 +1,1 @@
-console.log("but i need to learn git")
+console.log("i dont love git anymore because it is very difficult to understand")
